@@ -1,8 +1,19 @@
+body{
+box-sizing: border-box;
+}
+
+.navigation {
+    font-size: 2rem;
+    padding: 1rem;
+    text-align: center;
+}
+
 textarea {
-    width: 80%;
-    height: 10vh;
+    box-sizing: border-box;
     display: block;
-    margin: 1rem;
+    width: 100%;
+    min-height: 20vh;
+    margin-top: 2rem;
     padding: 1rem;
 }
 

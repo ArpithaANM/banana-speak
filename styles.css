@@ -30,6 +30,7 @@ nav {
 
 textarea {
     max-width: 600px;
+    text-align: start;
     margin: auto;
     box-sizing: border-box;
     display: block;

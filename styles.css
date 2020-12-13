@@ -29,10 +29,11 @@ nav {
 }
 
 textarea {
-    max-width: 600px;
     text-align: start;
+    font-family: 'Andika New Basic', sans-serif;
+    max-width: 600px;
     margin: auto;
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
     display: block;
     width: 100%;
     min-height: 20vh;
@@ -42,6 +43,7 @@ textarea {
 
 button {
     background-color: var(--primary-color);
+    font-family: 'Andika New Basic', sans-serif;
     border: none;
     margin: 1rem 0rem;
     padding: 1rem 2rem;
@@ -55,13 +57,14 @@ button {
     width: 100%;
     border: 1px solid black;
     min-height: 10vh;
-    max-height: 20vh;
+    max-height: 30vh;
     padding: 1rem;
 }
 
 .font {
     font-size: larger;
     padding: 1rem;
+    text-align: center;
 }
 
 /** footers **/

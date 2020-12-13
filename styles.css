@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika+New+Basic:ital,wght@1,400;1,700&display=swap');
+
 :root {
     --primary-color: #FDD835;
 }
 
 body {
+    font-family: 'Andika New Basic', sans-serif;
     box-sizing: border-box;
     display: block;
     margin: 0;
